@@ -1,0 +1,17 @@
+app:
+  name: enterprise
+  port: 8908
+
+mysql:
+  address: rdsh1k329zt5o7kkj9l6o.mysql.rds.aliyuncs.com:3306
+  username: yk_yuemeihui
+  password: ymh@yk123456
+  database: test_91gzt
+#  address: rm-bp1hd61tc8852rlpduo.mysql.rds.aliyuncs.com:3306
+#  database: youke
+#  username: cc
+#  password: kan16766
+
+redis:
+  address: 127.0.0.1:6379
+#password: 123456
